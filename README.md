@@ -1,2 +1,2 @@
 # Blog
-Blog written in Python
+Blog written in Python.
