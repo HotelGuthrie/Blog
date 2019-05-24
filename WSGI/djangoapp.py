@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0, './hello')
+sys.path.insert(0, './helloworld')
 from helloworld import wsgi
 
 
